@@ -1,0 +1,28 @@
+日時：2021-04-11 14:11:47.343160
+解答時間：9.3分
+
+ 単元番号：4 
+*****　テスト結果　*****
+32問中 25問正解
+
+×××××　間違えた問題　×××××
+問題文は Q5:the place where something is or where something happens, and the general environment
+正しい回答は A5:setting, あなたの答えは　scenario
+
+問題文は Q28:to make certain that you know what is happening or has happened to someone or something
+正しい回答は A28:keep track of, あなたの答えは　direct
+
+問題文は Q15:several things of the same kind
+正しい回答は A15:a series of, あなたの答えは　similar
+
+問題文は Q11:when the most important part is considered
+正しい回答は A11:essentially, あなたの答えは　essential
+
+問題文は Q22:when someone or something is present in a particular place
+正しい回答は A22:presence, あなたの答えは　presense
+
+問題文は Q23:too special, valuable, or unusual to be replaced by anything else
+正しい回答は A23:irreplaceable, あなたの答えは　inreplaceable
+
+問題文は Q25:extremely large
+正しい回答は A25:vast, あなたの答えは　bast

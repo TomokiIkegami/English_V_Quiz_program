@@ -1,0 +1,12 @@
+A21:scenario
+A22:presence
+A23:irreplaceable
+A24:invisible
+A25:vast
+A26:in need of
+A27:urgent
+A28:keep track of
+A29:equip
+A30:available
+A31:direct
+A32:regardless
