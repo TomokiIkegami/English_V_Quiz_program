@@ -7,8 +7,8 @@
 ## **プログラムの編集**<br>
 ①フォルダの中に入っている「send_attach.py」を開いてください。<br>
 ②「send_attach.py」の18～21行目を確認します。<br>
-③18行目の変数 gmail_account に、送信元のGmailアカウントを記入します。<br>
-④19行目の変数 gmail_password には、送信元のGmailアカウントのパスワード記入します。<br>
+③18行目の変数 gmail_account に、送信元Gmailアカウントを記入します。<br>
+④19行目の変数 gmail_password には、送信元Gmailアカウントのパスワードを記入します。<br>
 ⑤21行目の変数 mail_to の部分に、受信したい(送信先)メールアドレスを書き込みます。<br>
 
 注意：③に設定するメールアドレスはGmailを使用する必要があります。<br>
