@@ -1,0 +1,10 @@
+A21:material
+A22:force
+A23:puzzle out
+A24:attribute
+A25:take at face value
+A26:recall
+A27:adopt
+A28:efficient
+A29:bring on
+A30:selective

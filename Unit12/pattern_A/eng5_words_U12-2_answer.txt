@@ -1,0 +1,10 @@
+A11:back-slant
+A12:opposite
+A13:indicate
+A14:characteristic
+A15:conventional
+A16:subvert
+A17:adhere
+A18:psychological
+A19:principle
+A20:effort
