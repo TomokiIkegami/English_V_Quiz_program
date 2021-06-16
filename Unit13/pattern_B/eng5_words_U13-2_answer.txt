@@ -1,0 +1,10 @@
+A11:demand
+A12:assess
+A13:individual
+A14:presence
+A15:circular
+A16:surface
+A17:regulate
+A18:device
+A19:entire
+A20:guide

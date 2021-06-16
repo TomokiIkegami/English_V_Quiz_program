@@ -1,0 +1,30 @@
+A1:character
+A2:all the more
+A3:memorable
+A4:specifically
+A5:retain
+A6:cram
+A7:combine
+A8:cross-pollination
+A9:fundamentally
+A10:leave A off B
+A11:back-slant
+A12:opposite
+A13:indicate
+A14:characteristic
+A15:conventional
+A16:subvert
+A17:adhere
+A18:psychological
+A19:principle
+A20:effort
+A21:material
+A22:force
+A23:puzzle out
+A24:attribute
+A25:take at face value
+A26:recall
+A27:adopt
+A28:efficient
+A29:bring on
+A30:selective

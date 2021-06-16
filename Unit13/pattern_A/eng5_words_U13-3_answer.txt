@@ -1,0 +1,10 @@
+A21:sign
+A22:unevenly
+A23:distribute
+A24:sort
+A25:basis
+A26:harvest
+A27:stress
+A28:estimate
+A29:collaborate
+A30:bring down

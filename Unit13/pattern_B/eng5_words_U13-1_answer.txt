@@ -1,0 +1,10 @@
+A1:survey
+A2:criminal
+A3:investigation
+A4:tag
+A5:literally
+A6:identification
+A7:farm
+A8:firm
+A9:implement
+A10:commercial
