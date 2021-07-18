@@ -1,0 +1,10 @@
+A11:score
+A12:possibly
+A13:due to
+A14:precisely
+A15:slightly
+A16:impress
+A17:stand out
+A18:crowd
+A19:abandon
+A20:in favor of
